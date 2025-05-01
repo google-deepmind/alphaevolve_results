@@ -1,30 +1,42 @@
-# alphaevolve_results
+# Results of AlphaEvolve
 
-TODO(b/414802444): Add a description for your new project, explain what is
-being released here, etc... Additional, the following sections are normally
-expected for all releases. Feel free to add additional sections if appropriate
-for your project.
+This repository accompanies the technical report
+
+> TODO et al.
+[Discovering algorithms for high-value use cases via LLMs](https://www.arxiv.org/).
+*Preprint* (2025).
+
+Specifically, the repository contains a Google Colab notebook with the
+mathematical discoveries of AlphaEvolve outlined in Section 3 of the paper, as
+well as the corresponding code for verifying their correctness. The notebook is
+divided into sections, one for each of the considered mathematical problems.
+
+Note that the notebook contains only the instances where the results from
+AlphaEvolve outperforms the state-of-the-art. To avoid clutter, we exclude those
+problems where the results matched but did not outperform the best known
+constructions.
+
+This repository does *not* contain the code to run AlphaEvolve.
 
 ## Installation
 
-Write instructions for how the user should install your code. The instructions
-should ideally be valid when copy-pasted. You can combine this with the Usage
-section if there's no separate installation step.
+No installation required. The provided notebook can be opened and run in Google
+Colab.
 
 ## Usage
 
-Write example usage of your code. The instructions should ideally be valid when
-copy-pasted, and will be used by your technical reviewer to verify that your
-package functions correctly.
+The notebook `mathematical_results.ipynb` can be opened via
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-deepmind/alphaevolve_results/blob/master/mathematical_results.ipynb).
 
 ## Citing this work
 
-Add citation details here, usually a pastable BibTeX snippet:
+If you use the code or data in this package, please cite:
 
 ```
-@article{publicationname,
-      title={Publication Name},
-      author={Author One and Author Two and Author Three},
+@article{alphaevolve,
+      author={TODO},
+      title={Discovering algorithms for high-value use cases via {LLM}s},
+      journal={arXiv preprint arXiv:TODO},
       year={2025},
 }
 ```
