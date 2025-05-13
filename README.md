@@ -2,9 +2,9 @@
 
 This repository accompanies the technical report
 
-> TODO et al.
-[Discovering algorithms for high-value use cases via LLMs](https://www.arxiv.org/).
-*Preprint* (2025).
+> Novikov et al.
+[Discovering algorithms for high-value use cases via LLMs](https://).
+*Technical report*. 2025.
 
 Specifically, the repository contains a Google Colab notebook with the
 mathematical discoveries of AlphaEvolve outlined in Section 3 of the paper, as
@@ -33,11 +33,13 @@ The notebook `mathematical_results.ipynb` can be opened via
 If you use the code or data in this package, please cite:
 
 ```
-@article{alphaevolve,
-      author={TODO},
-      title={Discovering algorithms for high-value use cases via {LLM}s},
-      journal={arXiv preprint arXiv:TODO},
+@techreport{alphaevolve,
+      author={Novikov, Alexander and V\~{u}, Ng\^{a}n and Dupont, Emilien and Eisenberger, Marvin and Huang, Po-Sen and Wagner, Adam Zsolt and Shirobokov, Sergey and Kozlovskii, Borislav and Ruiz, Francisco J. R. and Mehrabian, Abbas and Kumar, M. Pawan and See, Abigail and Chaudhuri, Swarat and Holland, George and Davies, Alex and Nowozin, Sebastian and Kohli, Pushmeet and Balog, Matej},
+      title={Alpha{E}volve: A coding agent for scientific and algorithmic discovery},
       year={2025},
+      institution = {{Google DeepMind}},
+      month = {05},
+      url={https://},
 }
 ```
 
