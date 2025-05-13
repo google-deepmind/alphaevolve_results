@@ -3,7 +3,7 @@
 This repository accompanies the technical report
 
 > Novikov et al.
-[Discovering algorithms for high-value use cases via LLMs](https://).
+[AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://).
 *Technical report*. 2025.
 
 Specifically, the repository contains a Google Colab notebook with the
