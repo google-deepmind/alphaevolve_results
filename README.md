@@ -34,7 +34,7 @@ If you use the code or data in this package, please cite:
 
 ```
 @techreport{alphaevolve,
-      author={Novikov, Alexander and V\~{u}, Ng\^{a}n and Dupont, Emilien and Eisenberger, Marvin and Huang, Po-Sen and Wagner, Adam Zsolt and Shirobokov, Sergey and Kozlovskii, Borislav and Ruiz, Francisco J. R. and Mehrabian, Abbas and Kumar, M. Pawan and See, Abigail and Chaudhuri, Swarat and Holland, George and Davies, Alex and Nowozin, Sebastian and Kohli, Pushmeet and Balog, Matej},
+      author={Novikov, Alexander and V\~{u}, Ng\^{a}n and Eisenberger, Marvin and Dupont, Emilien and Huang, Po-Sen and Wagner, Adam Zsolt and Shirobokov, Sergey and Kozlovskii, Borislav and Ruiz, Francisco J. R. and Mehrabian, Abbas and Kumar, M. Pawan and See, Abigail and Chaudhuri, Swarat and Holland, George and Davies, Alex and Nowozin, Sebastian and Kohli, Pushmeet and Balog, Matej},
       title={Alpha{E}volve: A coding agent for scientific and algorithmic discovery},
       year={2025},
       institution={{Google DeepMind}},
