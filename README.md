@@ -39,6 +39,7 @@ If you use the code or data in this package, please cite:
       year={2025},
       institution={{Google DeepMind}},
       month={05},
+      url={https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf},
 }
 ```
 
