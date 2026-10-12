@@ -16,6 +16,8 @@ AlphaEvolve outperforms the state-of-the-art. To avoid clutter, we exclude those
 problems where the results matched but did not outperform the best known
 constructions.
 
+Several results in the notebook have since been improved by others; see [SUPERSEDED.md](SUPERSEDED.md) for newer values and their sources.
+
 This repository does *not* contain the code to run AlphaEvolve.
 
 ## Installation
